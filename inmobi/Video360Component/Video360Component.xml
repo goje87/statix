@@ -1,0 +1,25 @@
+<component>
+	<displayName>360 Video</displayName>
+	<className>sprout.custom.Video360Component</className>
+	<width>280</width>
+	<height>180</height>
+	<minimumWidth>10</minimumWidth>
+	<minimumHeight>10</minimumHeight>
+	<description>
+		360 Video 
+	</description>
+	<properties>
+		
+	</properties>
+
+	<compilationLevel>whitespace</compilationLevel>
+
+	<version>1</version>
+
+	<triggers>
+		
+	</triggers>
+
+	<script src="https://dl.dropboxusercontent.com/u/2521075/test-xp-inmobi-99863/studio/Video360Component/Video360Component.js"/>
+
+</component>
